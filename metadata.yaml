@@ -1,0 +1,28 @@
+_repo: English-Verse--Specimens-Illustrating-its-Principles-and-History_32262
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alden, Raymond MacDonald
+    birthdate: 1873
+    deathdate: 1924
+    gutenberg_agent_id: '35753'
+    url: http://www.gutenberg.org/2009/agents/35753
+    wikipedia: http://en.wikipedia.org/wiki/Raymond_Macdonald_Alden
+description: ''
+gutenberg_issued: '2010-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32262'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcsh 'English language -- Versification'
+- !lcc 'PE'
+title: 'English Verse: Specimens Illustrating its Principles and History'
+url: http://www.gutenberg.org/ebooks/32262
