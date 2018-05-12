@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35753
     wikipedia: http://en.wikipedia.org/wiki/Raymond_Macdonald_Alden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32262#English-Verse--Specimens-Illustrating-its-Principles-and-History
 gutenberg_issued: '2010-05-05'
 gutenberg_type: Text
 identifiers:
